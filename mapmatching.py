@@ -1,5 +1,5 @@
 from surfacemovement import Trajectory, Flight
-import utils
+# import utils
 import numpy as np
 import pandas as pd
 import similaritymeasures
